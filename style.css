@@ -1,0 +1,24 @@
+body{
+    background-color:black;
+}
+h1{
+    color:rgb(187, 162, 162);
+    text-align: center;
+}
+h2{
+    color:white
+}
+p{
+    color:whitesmoke;
+}
+.image{
+    height:200px;
+    width:200px;
+    border-radius: 10px;
+    background-repeat: cover;
+}
+
+.list_movies {
+    display: flex;
+    justify-content: space-evenly;
+}
